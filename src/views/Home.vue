@@ -6,7 +6,7 @@
 				style="height: 300px"
 			>
 				<h1>Test Github Deploy</h1>
-				<h2>Rock Paper Scissors</h2>
+				<h2 style="font-weight:bold">Rock Paper Scissors</h2>
 			</div>
 			<div>
 				<div class="">
